@@ -1,0 +1,2 @@
+// optiKA lisans dosyası - DEĞİŞTİRMEYİN (imza bozulur)
+window.OPTIKA_LISANS = {"veri": "{\"bitis\":\"2027-11-04\",\"eczane\":\"ÖRNEK ECZANESİ\",\"iter\":120000,\"kullanicilar\":[{\"k\":\"demo\",\"ozet\":\"WRXjnke+lsKIOn19O+ZUNBrPw2u4IDdXY2wr/gIzs2g=\",\"tuz\":\"4H3DL7TzFyovKXz+DKPB4w==\"}],\"lisans_no\":\"32542741\",\"urun\":\"optiKA Nöbet Panosu\",\"verilis\":\"2026-11-04\"}", "imza": "gl2kMoxxfk3cl+RhUFny4tW4ULgot2Px92aJEnqY9HhL/gOfEqzpdRBGXVThmHjr/OtykY6AoM+XG9vHoXswmw=="};
